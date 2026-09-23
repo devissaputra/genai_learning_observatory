@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">GenAI Learning Observatory architecture</title>
+<desc id="desc">Architecture showing learner interaction events flowing through transparent analysis into human-facing reflection, with governance safeguards.</desc>
+<defs>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-opacity="0.08"/></filter>
+  <style>
+    .bg{fill:#f7f8fb}.ink{fill:#18202f}.muted{fill:#5e687b}.line{stroke:#aab3c3;stroke-width:3;fill:none}.card{fill:#fff;stroke:#d9dfea;stroke-width:2;filter:url(#shadow)}
+    .small{font:500 24px Inter,ui-sans-serif,system-ui,sans-serif}.body{font:500 28px Inter,ui-sans-serif,system-ui,sans-serif}.label{font:700 25px Inter,ui-sans-serif,system-ui,sans-serif}.head{font:800 44px Inter,ui-sans-serif,system-ui,sans-serif}.title{font:800 58px Inter,ui-sans-serif,system-ui,sans-serif}
+  </style>
+</defs>
+<rect class="bg" width="1600" height="900" rx="28"/>
+<text x="86" y="105" class="title ink">Architecture</text>
+<text x="88" y="148" class="small muted">From learner–AI events to inspectable signals and human interpretation</text>
+<g transform="translate(80 225)">
+  <rect class="card" width="330" height="390" rx="28"/>
+  <circle cx="56" cy="60" r="25" fill="#e9f0ff"/><path d="M45 62h22M56 51v22" stroke="#2d6cdf" stroke-width="5" stroke-linecap="round"/>
+  <text x="96" y="70" class="head ink">1. Evidence</text>
+  <text x="44" y="132" class="label ink">Interaction events</text>
+  <text x="44" y="178" class="small muted">Prompt • response • revision</text>
+  <text x="44" y="216" class="small muted">verification • reflection</text>
+  <rect x="42" y="256" width="246" height="72" rx="16" fill="#f5f7fb"/>
+  <text x="62" y="286" class="small ink">Provenance</text><text x="62" y="316" class="small muted">timestamps + source</text>
+</g>
+<g transform="translate(490 225)">
+  <rect class="card" width="620" height="390" rx="28"/>
+  <circle cx="56" cy="60" r="25" fill="#e9f7f5"/><path d="M43 69l13-18 13 18" stroke="#1c8c83" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="96" y="70" class="head ink">2. Transparent analysis</text>
+  <g transform="translate(44 124)">
+    <rect width="156" height="88" rx="16" fill="#f5f7fb"/><text x="22" y="36" class="label ink">Intent</text><text x="22" y="67" class="small muted">tagging</text>
+    <rect x="188" width="156" height="88" rx="16" fill="#f5f7fb"/><text x="210" y="36" class="label ink">Behavior</text><text x="210" y="67" class="small muted">features</text>
+    <rect x="376" width="156" height="88" rx="16" fill="#f5f7fb"/><text x="398" y="36" class="label ink">Session</text><text x="398" y="67" class="small muted">summary</text>
+    <path d="M158 44h28M344 44h28" class="line"/>
+  </g>
+  <rect x="44" y="246" width="532" height="92" rx="18" fill="#eef7ff"/>
+  <text x="68" y="280" class="label ink">Auditability by design</text>
+  <text x="68" y="316" class="small muted">Every metric maps to explicit features and code.</text>
+</g>
+<g transform="translate(1190 225)">
+  <rect class="card" width="330" height="390" rx="28"/>
+  <circle cx="56" cy="60" r="25" fill="#f1ecff"/><circle cx="56" cy="54" r="8" fill="none" stroke="#7750c7" stroke-width="4"/><path d="M40 74c4-14 28-14 32 0" stroke="#7750c7" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <text x="96" y="70" class="head ink">3. Human use</text>
+  <text x="44" y="132" class="label ink">Reflection surface</text>
+  <text x="44" y="178" class="small muted">Interpret patterns</text>
+  <text x="44" y="216" class="small muted">Review uncertainty</text>
+  <text x="44" y="254" class="small muted">Discuss next action</text>
+  <rect x="42" y="288" width="246" height="56" rx="14" fill="#f8f4ff"/>
+  <text x="62" y="324" class="small ink">No automated grading</text>
+</g>
+<path d="M416 420h64" class="line"/><polygon points="480,420 460,408 460,432" fill="#7b8494"/>
+<path d="M1116 420h64" class="line"/><polygon points="1180,420 1160,408 1160,432" fill="#7b8494"/>
+<rect x="80" y="684" width="1440" height="122" rx="24" fill="#18202f"/>
+<text x="116" y="730" class="label" fill="#fff">Safeguards across the full pipeline</text>
+<text x="116" y="773" class="small" fill="#d9e0ec">Consent • minimization • uncertainty • traceability • human review • no high-stakes automation</text>
+</svg>
