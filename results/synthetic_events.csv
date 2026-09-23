@@ -1,0 +1,469 @@
+learner_id,session_id,prompt,verified,revised,adopted,reflected,latency_s
+L000,L000-S00,Give me an outline,0,1,0,0,20.534233218861825
+L000,L000-S00,Check whether my answer is correct,1,1,0,0,10.198464505632142
+L000,L000-S00,Give me an outline,0,0,1,1,11.075123730431036
+L000,L000-S01,Explain why this step works,1,1,0,0,36.4643152530415
+L000,L000-S01,Check whether my answer is correct,1,1,0,1,17.39627408957383
+L000,L000-S01,Give me an outline,0,1,1,0,35.193100178864526
+L000,L000-S01,Write a possible answer,0,1,0,0,20.1646314486377
+L000,L000-S01,Help me reflect on my reasoning,1,1,1,1,29.167890497225827
+L000,L000-S02,Check whether my answer is correct,0,0,0,0,23.445420626562374
+L000,L000-S02,Help me reflect on my reasoning,1,1,1,0,10.429965430007393
+L000,L000-S02,Check whether my answer is correct,1,0,0,1,74.96305206708517
+L000,L000-S02,Help me reflect on my reasoning,1,1,1,0,26.671349995977643
+L000,L000-S02,What source supports this?,0,0,0,1,23.829145179733985
+L000,L000-S03,Explain why this step works,0,1,0,1,33.46738517705294
+L000,L000-S03,Write a possible answer,1,1,0,0,15.971955115853403
+L000,L000-S03,Check whether my answer is correct,0,1,0,0,47.241364093686045
+L000,L000-S03,Help me reflect on my reasoning,0,1,0,1,34.47529065180549
+L000,L000-S03,Write a possible answer,1,1,0,1,35.84448743666944
+L000,L000-S03,What source supports this?,0,1,1,1,59.01693961594039
+L001,L001-S00,Explain why this step works,1,0,0,0,29.819793588179934
+L001,L001-S00,What source supports this?,0,1,0,1,20.435245511118595
+L001,L001-S00,Give me an outline,1,0,1,0,26.1892605572555
+L001,L001-S00,Check whether my answer is correct,0,0,1,1,9.821561863457369
+L001,L001-S00,Check whether my answer is correct,0,0,1,0,81.45099619879052
+L001,L001-S01,Check whether my answer is correct,1,0,1,0,35.38774809283096
+L001,L001-S01,Help me reflect on my reasoning,1,1,0,0,11.68862836646066
+L001,L001-S01,What source supports this?,0,0,0,0,51.59950357039689
+L001,L001-S01,What source supports this?,1,1,1,1,43.9147926532476
+L001,L001-S02,Help me reflect on my reasoning,1,0,1,1,56.71454511565667
+L001,L001-S02,Help me reflect on my reasoning,0,0,1,0,47.26972782459249
+L001,L001-S02,Write a possible answer,0,0,1,1,57.95932869651468
+L001,L001-S02,Give me an outline,0,1,0,0,34.70343137332213
+L001,L001-S03,Write a possible answer,1,0,0,0,7.2225159089281235
+L001,L001-S03,What source supports this?,0,0,0,1,14.532823998295198
+L001,L001-S03,Check whether my answer is correct,1,1,0,1,9.668398085569564
+L001,L001-S03,What source supports this?,1,1,1,0,55.391569972541866
+L001,L001-S03,What source supports this?,0,0,1,1,19.292121685008237
+L001,L001-S03,Explain why this step works,1,1,1,1,34.77217762220343
+L002,L002-S00,Explain why this step works,1,1,0,1,13.925085311873394
+L002,L002-S00,Check whether my answer is correct,1,0,0,0,10.417368215049972
+L002,L002-S00,Help me reflect on my reasoning,0,0,0,0,1.5986318480915036
+L002,L002-S00,Give me an outline,0,1,1,0,72.10615940275639
+L002,L002-S00,Help me reflect on my reasoning,1,1,0,0,63.33271872494389
+L002,L002-S01,Write a possible answer,1,0,1,0,34.95324287687438
+L002,L002-S01,Give me an outline,1,0,1,0,47.66466574491039
+L002,L002-S01,Check whether my answer is correct,0,0,1,0,24.84145600626683
+L002,L002-S02,Explain why this step works,0,0,1,0,60.38701137723773
+L002,L002-S02,Give me an outline,1,0,1,1,20.870760497885787
+L002,L002-S02,Explain why this step works,0,1,0,1,27.64367390104899
+L002,L002-S02,Give me an outline,1,1,1,0,15.88933182183802
+L002,L002-S02,Check whether my answer is correct,0,0,0,1,28.990418232849706
+L002,L002-S02,Help me reflect on my reasoning,1,0,1,1,15.34867083195436
+L002,L002-S03,What source supports this?,0,1,1,1,26.77493644277001
+L002,L002-S03,Give me an outline,0,0,0,0,50.36199623567154
+L002,L002-S03,Check whether my answer is correct,0,0,1,0,54.132701039597194
+L003,L003-S00,Check whether my answer is correct,1,1,1,0,29.437019917001425
+L003,L003-S00,Help me reflect on my reasoning,0,0,0,0,67.95987932011906
+L003,L003-S00,Give me an outline,0,1,0,0,9.131203229893133
+L003,L003-S01,Help me reflect on my reasoning,0,1,0,0,38.099038011639664
+L003,L003-S01,Explain why this step works,0,0,0,0,15.514496004219945
+L003,L003-S01,Explain why this step works,0,1,0,1,25.01955977738912
+L003,L003-S02,Explain why this step works,0,1,0,0,37.792504006695445
+L003,L003-S02,Explain why this step works,0,0,1,0,42.59467313117158
+L003,L003-S02,Help me reflect on my reasoning,1,0,1,1,26.65222519653609
+L003,L003-S02,Explain why this step works,1,0,1,0,33.686348716621296
+L003,L003-S02,Explain why this step works,0,0,0,0,44.02959614175613
+L003,L003-S02,Help me reflect on my reasoning,1,0,1,0,32.45034232036173
+L003,L003-S03,Write a possible answer,0,1,0,0,6.552528984722892
+L003,L003-S03,What source supports this?,0,1,1,0,8.324721393482024
+L003,L003-S03,Check whether my answer is correct,0,0,0,0,18.796240466237535
+L004,L004-S00,Check whether my answer is correct,1,0,0,1,37.68941238915714
+L004,L004-S00,Give me an outline,0,1,0,1,14.35190465055129
+L004,L004-S00,Check whether my answer is correct,1,0,0,1,25.608089939091133
+L004,L004-S00,Write a possible answer,1,1,1,0,27.058287405289455
+L004,L004-S00,Check whether my answer is correct,0,0,0,1,16.421819893432726
+L004,L004-S00,Check whether my answer is correct,1,0,1,1,31.996358752924337
+L004,L004-S00,Help me reflect on my reasoning,1,0,1,1,32.02711732793322
+L004,L004-S01,Check whether my answer is correct,0,0,1,1,40.13102464787856
+L004,L004-S01,Check whether my answer is correct,0,0,0,0,33.491130330747566
+L004,L004-S01,Check whether my answer is correct,1,1,0,1,4.042867484560903
+L004,L004-S01,Check whether my answer is correct,1,1,1,0,27.394201971085465
+L004,L004-S01,Explain why this step works,1,1,1,1,45.23577308693454
+L004,L004-S01,Write a possible answer,1,0,1,1,41.061899395247785
+L004,L004-S02,Help me reflect on my reasoning,0,0,1,0,8.423349688903599
+L004,L004-S02,What source supports this?,1,0,0,1,62.51863311817806
+L004,L004-S02,What source supports this?,0,0,0,0,75.61899871899709
+L004,L004-S02,Write a possible answer,0,0,1,0,28.003470286792112
+L004,L004-S02,Give me an outline,1,0,0,1,17.95988641956526
+L004,L004-S02,Write a possible answer,1,1,0,0,26.550888403385006
+L004,L004-S03,Write a possible answer,0,1,1,0,6.754666267297821
+L004,L004-S03,Explain why this step works,0,1,1,0,43.867697586326294
+L004,L004-S03,Write a possible answer,1,0,1,0,48.8073554799648
+L004,L004-S03,Explain why this step works,1,1,0,0,22.00519681075312
+L004,L004-S03,What source supports this?,1,0,1,0,38.72134186506375
+L004,L004-S03,Give me an outline,0,0,1,1,56.8912327267283
+L005,L005-S00,Explain why this step works,0,1,1,1,65.78819131115927
+L005,L005-S00,What source supports this?,1,1,1,1,19.11834639298022
+L005,L005-S00,Help me reflect on my reasoning,0,0,1,1,39.1367684132221
+L005,L005-S00,Give me an outline,0,1,1,0,110.6349964099115
+L005,L005-S01,Help me reflect on my reasoning,1,0,1,0,45.972128529883996
+L005,L005-S01,What source supports this?,0,0,1,0,39.10316136552558
+L005,L005-S01,Check whether my answer is correct,0,0,1,0,14.178866627399403
+L005,L005-S01,Write a possible answer,0,0,1,1,7.653021340003693
+L005,L005-S01,Write a possible answer,1,0,0,1,54.32776202188786
+L005,L005-S02,Check whether my answer is correct,1,0,1,0,22.58713567446573
+L005,L005-S02,Write a possible answer,0,1,1,1,51.84958163157673
+L005,L005-S02,Write a possible answer,1,0,1,0,43.48330494487856
+L005,L005-S02,Write a possible answer,0,0,0,0,40.223500046953035
+L005,L005-S03,Help me reflect on my reasoning,0,1,0,0,22.707143143902897
+L005,L005-S03,What source supports this?,0,1,1,0,30.978608477790438
+L005,L005-S03,Check whether my answer is correct,1,1,1,1,102.4897858262882
+L006,L006-S00,Write a possible answer,1,1,0,1,31.58140151050207
+L006,L006-S00,Write a possible answer,1,0,1,1,48.4666707137963
+L006,L006-S00,Write a possible answer,1,0,0,1,88.1385189181915
+L006,L006-S01,Give me an outline,0,1,1,1,22.194355223218412
+L006,L006-S01,Explain why this step works,0,1,1,1,26.89123109994453
+L006,L006-S01,Check whether my answer is correct,1,0,1,0,20.034636272375
+L006,L006-S01,Write a possible answer,0,0,1,1,18.224730215584724
+L006,L006-S01,Write a possible answer,0,1,0,0,4.65851660911529
+L006,L006-S01,Check whether my answer is correct,1,1,1,1,34.54368231443318
+L006,L006-S01,Check whether my answer is correct,0,1,1,1,27.61767357774319
+L006,L006-S02,Write a possible answer,1,0,1,1,27.1462664332055
+L006,L006-S02,Check whether my answer is correct,1,0,1,1,18.745743895162686
+L006,L006-S02,Help me reflect on my reasoning,1,1,1,0,56.81519629935256
+L006,L006-S02,Check whether my answer is correct,1,1,1,0,23.207959909198454
+L006,L006-S02,Explain why this step works,0,1,0,0,23.43616004118038
+L006,L006-S02,What source supports this?,1,1,1,1,21.278857880623907
+L006,L006-S03,Give me an outline,1,1,0,1,62.355247761911976
+L006,L006-S03,What source supports this?,1,0,0,0,42.27817940719292
+L006,L006-S03,Explain why this step works,1,1,1,1,36.36646512594351
+L006,L006-S03,Give me an outline,0,1,1,1,56.41754475870564
+L006,L006-S03,Explain why this step works,1,1,1,1,46.23604452011654
+L006,L006-S03,Write a possible answer,1,1,1,0,12.61861111058773
+L006,L006-S03,Write a possible answer,1,0,0,1,13.55928217060759
+L007,L007-S00,Check whether my answer is correct,0,0,1,0,10.479066733997097
+L007,L007-S00,Write a possible answer,0,0,1,0,55.14380385916451
+L007,L007-S00,Help me reflect on my reasoning,1,1,0,0,53.893923842103575
+L007,L007-S00,Explain why this step works,0,0,0,1,41.76023436533183
+L007,L007-S00,Help me reflect on my reasoning,0,0,0,0,13.148803519638058
+L007,L007-S00,Check whether my answer is correct,0,1,1,0,24.152962264207936
+L007,L007-S00,Explain why this step works,0,0,1,0,22.06650521470339
+L007,L007-S01,Check whether my answer is correct,0,0,1,1,39.13768546520722
+L007,L007-S01,What source supports this?,0,0,1,0,26.36756747577861
+L007,L007-S01,Check whether my answer is correct,0,0,0,1,57.008751345555666
+L007,L007-S01,Check whether my answer is correct,0,1,1,0,3.0361349123235217
+L007,L007-S01,Check whether my answer is correct,0,0,0,0,43.659580122213875
+L007,L007-S01,Check whether my answer is correct,0,0,1,0,65.56088431239385
+L007,L007-S02,What source supports this?,1,1,0,0,25.883253859302137
+L007,L007-S02,Give me an outline,1,1,1,0,24.68349571706432
+L007,L007-S02,Write a possible answer,0,0,1,0,43.57581676202862
+L007,L007-S02,Give me an outline,0,0,0,0,35.12696078248959
+L007,L007-S03,Write a possible answer,1,1,0,1,18.720489128656528
+L007,L007-S03,Help me reflect on my reasoning,1,1,1,0,4.247287516405442
+L007,L007-S03,Explain why this step works,1,0,0,0,41.50606301147837
+L007,L007-S03,Explain why this step works,0,0,1,0,14.896952265969093
+L007,L007-S03,Help me reflect on my reasoning,0,0,1,0,4.622090895714317
+L007,L007-S03,Write a possible answer,0,1,1,0,36.6111135749022
+L008,L008-S00,What source supports this?,1,1,0,0,25.219830888614233
+L008,L008-S00,Give me an outline,1,1,0,1,20.365459267229763
+L008,L008-S00,Help me reflect on my reasoning,1,1,0,0,18.3845115528486
+L008,L008-S00,Check whether my answer is correct,1,1,0,1,13.069179335497171
+L008,L008-S00,Give me an outline,0,1,0,1,3.6706875315865894
+L008,L008-S01,Help me reflect on my reasoning,1,1,1,1,57.10394474336378
+L008,L008-S01,Check whether my answer is correct,1,1,0,1,41.581841175913254
+L008,L008-S01,Give me an outline,1,0,0,0,28.6399853298592
+L008,L008-S01,What source supports this?,1,1,1,0,32.3951474256841
+L008,L008-S02,Explain why this step works,1,1,0,1,35.07640162023284
+L008,L008-S02,Explain why this step works,1,1,0,0,18.345977495324888
+L008,L008-S02,Help me reflect on my reasoning,1,1,0,0,17.810137598474448
+L008,L008-S02,Check whether my answer is correct,1,0,0,1,10.272227012058906
+L008,L008-S02,Check whether my answer is correct,0,1,1,0,66.8377234665229
+L008,L008-S02,Explain why this step works,1,1,0,1,13.709517727127473
+L008,L008-S02,Help me reflect on my reasoning,1,1,0,1,16.715340617202145
+L008,L008-S03,Help me reflect on my reasoning,0,0,1,1,48.594456679188724
+L008,L008-S03,Check whether my answer is correct,1,1,0,1,27.809664125948142
+L008,L008-S03,What source supports this?,1,1,0,1,39.28409858930116
+L009,L009-S00,What source supports this?,0,1,0,0,51.94878892116433
+L009,L009-S00,Help me reflect on my reasoning,0,1,1,0,30.143108156215554
+L009,L009-S00,What source supports this?,0,0,1,0,25.322046139874253
+L009,L009-S00,Write a possible answer,1,1,1,0,64.30182039298964
+L009,L009-S00,What source supports this?,0,0,0,0,26.154693008617993
+L009,L009-S00,Help me reflect on my reasoning,1,0,0,0,8.984614077694557
+L009,L009-S00,Check whether my answer is correct,1,0,1,0,75.10422222638002
+L009,L009-S01,Give me an outline,1,0,0,0,73.10846664074737
+L009,L009-S01,What source supports this?,0,0,1,0,25.031170994675918
+L009,L009-S01,Explain why this step works,0,0,0,0,39.28561488946763
+L009,L009-S01,Check whether my answer is correct,1,1,1,1,14.742582948265197
+L009,L009-S01,Check whether my answer is correct,1,1,0,0,23.675822097590913
+L009,L009-S01,Give me an outline,1,0,1,0,15.629563368682636
+L009,L009-S02,Explain why this step works,0,0,0,0,19.013376138091306
+L009,L009-S02,What source supports this?,1,0,0,1,75.38376325048333
+L009,L009-S02,Explain why this step works,0,1,0,1,44.97657879993827
+L009,L009-S02,Write a possible answer,0,0,1,0,9.193882131523607
+L009,L009-S02,Check whether my answer is correct,1,0,0,0,31.144795282543434
+L009,L009-S02,Check whether my answer is correct,0,1,0,0,90.75073635027638
+L009,L009-S02,Give me an outline,0,0,0,0,56.42024181546712
+L009,L009-S03,Help me reflect on my reasoning,1,0,1,0,18.22526564953513
+L009,L009-S03,Help me reflect on my reasoning,1,0,0,1,82.5151227913559
+L009,L009-S03,Help me reflect on my reasoning,0,1,1,0,54.50118503835272
+L009,L009-S03,Explain why this step works,1,0,0,1,28.680901250554165
+L009,L009-S03,Give me an outline,1,1,0,0,35.13476714348967
+L010,L010-S00,What source supports this?,1,1,0,0,61.41159848028553
+L010,L010-S00,Help me reflect on my reasoning,1,0,0,0,10.504417141512763
+L010,L010-S00,Check whether my answer is correct,1,1,0,0,20.133996983741298
+L010,L010-S00,Write a possible answer,1,1,0,0,21.385190492233786
+L010,L010-S00,Explain why this step works,1,0,0,0,12.80459021960412
+L010,L010-S01,Help me reflect on my reasoning,1,1,1,1,18.901316105951672
+L010,L010-S01,Give me an outline,1,1,0,0,88.16339937642184
+L010,L010-S01,Help me reflect on my reasoning,1,0,1,0,14.640611789841486
+L010,L010-S01,Explain why this step works,0,1,1,1,72.96078697592452
+L010,L010-S01,Explain why this step works,0,1,1,0,36.57255116190591
+L010,L010-S01,Give me an outline,0,0,0,1,11.45006364899558
+L010,L010-S02,Check whether my answer is correct,1,0,0,0,54.087309133041515
+L010,L010-S02,What source supports this?,1,1,0,1,24.604327770761138
+L010,L010-S02,Help me reflect on my reasoning,1,1,1,0,36.15162258127179
+L010,L010-S02,Write a possible answer,1,1,0,0,59.19354712835743
+L010,L010-S02,Check whether my answer is correct,1,1,1,1,89.26617216966568
+L010,L010-S03,Write a possible answer,1,1,0,1,46.47235355552131
+L010,L010-S03,Help me reflect on my reasoning,1,1,0,0,5.072425439380391
+L010,L010-S03,Explain why this step works,1,1,1,0,13.902123624229821
+L011,L011-S00,Help me reflect on my reasoning,1,1,0,0,150.33938692854258
+L011,L011-S00,What source supports this?,1,0,0,0,15.871131482306188
+L011,L011-S00,Explain why this step works,0,0,1,0,28.974344120704785
+L011,L011-S00,Help me reflect on my reasoning,1,0,1,0,27.852014970208025
+L011,L011-S01,What source supports this?,1,1,1,0,56.15056226975488
+L011,L011-S01,Give me an outline,0,1,1,0,20.338486690752887
+L011,L011-S01,What source supports this?,0,1,0,0,55.40411493566232
+L011,L011-S01,Give me an outline,0,1,0,0,55.9453329161119
+L011,L011-S01,Write a possible answer,0,0,1,0,11.71914417252165
+L011,L011-S02,Write a possible answer,1,1,1,0,89.79299228504098
+L011,L011-S02,Write a possible answer,0,0,0,1,1.4680218602525126
+L011,L011-S02,Check whether my answer is correct,1,1,1,0,84.76163017466033
+L011,L011-S02,Write a possible answer,1,0,0,0,75.2621419451168
+L011,L011-S02,Explain why this step works,0,0,1,1,33.78214603261393
+L011,L011-S03,Write a possible answer,0,1,1,0,34.208173211456064
+L011,L011-S03,Check whether my answer is correct,0,1,0,0,74.77750749657258
+L011,L011-S03,Check whether my answer is correct,0,0,0,0,45.00394655039779
+L011,L011-S03,Write a possible answer,1,1,1,0,26.938416750815783
+L011,L011-S03,Check whether my answer is correct,0,1,0,0,52.26172910997653
+L011,L011-S03,Write a possible answer,1,0,1,0,68.69415805409814
+L011,L011-S03,What source supports this?,0,1,0,0,14.034114795416167
+L012,L012-S00,Help me reflect on my reasoning,0,1,1,0,42.3880699115713
+L012,L012-S00,Help me reflect on my reasoning,1,0,1,1,60.30939820653186
+L012,L012-S00,Give me an outline,1,1,0,0,16.93655355659814
+L012,L012-S00,Help me reflect on my reasoning,1,1,0,0,29.689722806879587
+L012,L012-S00,Explain why this step works,1,0,0,0,50.801612852639664
+L012,L012-S01,Explain why this step works,1,1,0,1,24.949932535833607
+L012,L012-S01,Explain why this step works,0,1,0,1,15.510407948762827
+L012,L012-S01,Check whether my answer is correct,1,0,0,1,71.80536451450232
+L012,L012-S02,Give me an outline,0,0,1,0,6.472665474170054
+L012,L012-S02,Check whether my answer is correct,1,1,1,1,3.694468269863257
+L012,L012-S02,Explain why this step works,1,0,1,1,14.434048671079143
+L012,L012-S02,Explain why this step works,0,0,0,0,15.66425174229656
+L012,L012-S02,Check whether my answer is correct,0,1,1,0,65.92995847979088
+L012,L012-S02,Give me an outline,0,0,0,1,31.212445601467312
+L012,L012-S02,Help me reflect on my reasoning,0,0,0,0,10.553124774088946
+L012,L012-S03,Write a possible answer,1,0,1,1,18.112786528496358
+L012,L012-S03,Check whether my answer is correct,0,1,0,0,5.602594533629384
+L012,L012-S03,Check whether my answer is correct,1,0,0,0,17.043219018803253
+L012,L012-S03,Write a possible answer,0,1,1,0,19.088406243318673
+L013,L013-S00,Give me an outline,1,1,0,1,19.636637349385012
+L013,L013-S00,Give me an outline,1,0,1,0,11.675952708914838
+L013,L013-S00,Explain why this step works,0,0,0,1,37.161065929619944
+L013,L013-S01,Give me an outline,1,0,0,1,54.24870904765602
+L013,L013-S01,Explain why this step works,1,0,1,0,15.221526299862113
+L013,L013-S01,Give me an outline,0,1,0,0,26.621080292417805
+L013,L013-S01,Help me reflect on my reasoning,0,1,0,1,55.70019101607315
+L013,L013-S01,Write a possible answer,0,0,1,0,102.4411191416848
+L013,L013-S01,Give me an outline,0,0,1,0,18.458099812769042
+L013,L013-S01,Write a possible answer,0,0,0,0,36.37219488873823
+L013,L013-S02,Help me reflect on my reasoning,1,0,0,0,72.84036281594044
+L013,L013-S02,Give me an outline,1,1,0,1,4.246369770340559
+L013,L013-S02,What source supports this?,1,1,0,0,50.25072414813005
+L013,L013-S02,Check whether my answer is correct,0,1,1,1,35.20367609579707
+L013,L013-S02,Write a possible answer,1,1,0,1,65.46491033055888
+L013,L013-S02,Write a possible answer,0,1,0,1,47.56648176357826
+L013,L013-S03,What source supports this?,1,0,1,0,31.054350600177713
+L013,L013-S03,Give me an outline,0,0,1,0,10.960865809611917
+L013,L013-S03,Write a possible answer,0,1,0,0,43.038971194549696
+L013,L013-S03,Help me reflect on my reasoning,0,0,1,0,14.216268531371032
+L014,L014-S00,Give me an outline,0,0,1,0,81.58640917901717
+L014,L014-S00,Write a possible answer,0,0,0,1,69.11521649253666
+L014,L014-S00,Help me reflect on my reasoning,1,0,0,0,22.692302308572508
+L014,L014-S00,Write a possible answer,0,1,0,0,45.924722351273424
+L014,L014-S00,Explain why this step works,0,1,1,0,41.69954467099898
+L014,L014-S00,Write a possible answer,1,0,1,0,101.02612632144901
+L014,L014-S01,Write a possible answer,1,0,0,0,9.645539602311029
+L014,L014-S01,Check whether my answer is correct,0,0,1,0,18.38387288943843
+L014,L014-S01,Check whether my answer is correct,0,0,0,1,15.207964332460971
+L014,L014-S01,What source supports this?,1,1,1,0,43.55090238874776
+L014,L014-S01,Write a possible answer,0,0,1,1,73.35723105706943
+L014,L014-S02,Write a possible answer,1,0,0,0,20.232998081200407
+L014,L014-S02,Explain why this step works,0,0,1,1,61.540176706607426
+L014,L014-S02,Check whether my answer is correct,0,1,0,0,17.114427129943266
+L014,L014-S02,Help me reflect on my reasoning,0,0,0,0,46.82277557000879
+L014,L014-S02,Write a possible answer,1,1,1,1,37.4525377219392
+L014,L014-S03,Check whether my answer is correct,0,1,1,1,16.46709971288533
+L014,L014-S03,Explain why this step works,0,1,0,0,21.999439446784514
+L014,L014-S03,Give me an outline,1,1,0,1,54.52196383471607
+L014,L014-S03,Give me an outline,1,1,0,0,39.730685921791554
+L015,L015-S00,Explain why this step works,1,0,1,0,8.28247014131969
+L015,L015-S00,Check whether my answer is correct,0,1,1,0,2.5174991920633247
+L015,L015-S00,Give me an outline,0,0,1,0,18.268384150347625
+L015,L015-S01,Help me reflect on my reasoning,0,1,0,0,93.62439598236713
+L015,L015-S01,What source supports this?,0,0,1,0,103.00688951450442
+L015,L015-S01,Write a possible answer,1,0,0,1,83.41817580429527
+L015,L015-S01,Explain why this step works,0,0,1,0,6.468646422049735
+L015,L015-S02,Explain why this step works,1,1,0,0,10.223392399479698
+L015,L015-S02,Help me reflect on my reasoning,0,0,0,0,96.6118604923247
+L015,L015-S02,What source supports this?,1,1,1,1,48.77869042153656
+L015,L015-S03,Help me reflect on my reasoning,0,1,1,0,30.60105436307581
+L015,L015-S03,Write a possible answer,0,1,1,0,89.65581185499971
+L015,L015-S03,What source supports this?,1,0,1,0,15.732047773794996
+L015,L015-S03,Write a possible answer,0,0,0,0,18.072266278163927
+L015,L015-S03,Check whether my answer is correct,0,0,0,1,17.483777198187447
+L015,L015-S03,Help me reflect on my reasoning,1,1,1,0,24.38110746790635
+L016,L016-S00,Check whether my answer is correct,1,1,0,0,42.98692129720174
+L016,L016-S00,Explain why this step works,1,0,0,1,70.90514468622675
+L016,L016-S00,What source supports this?,0,0,0,0,70.43589513311173
+L016,L016-S01,What source supports this?,1,0,1,1,47.080897237252366
+L016,L016-S01,Write a possible answer,1,1,1,0,27.158437337931712
+L016,L016-S01,Give me an outline,1,1,1,0,8.841305890984659
+L016,L016-S01,What source supports this?,0,1,1,1,21.911970429995478
+L016,L016-S01,Give me an outline,1,1,0,0,37.68729981898202
+L016,L016-S02,Help me reflect on my reasoning,0,1,1,1,54.80238595583062
+L016,L016-S02,Help me reflect on my reasoning,0,1,0,0,25.89315657494715
+L016,L016-S02,Give me an outline,1,0,0,0,9.501250733657495
+L016,L016-S02,Help me reflect on my reasoning,1,0,1,0,27.244254699790204
+L016,L016-S02,What source supports this?,1,0,1,0,42.430306568709206
+L016,L016-S02,Check whether my answer is correct,1,1,1,0,4.3074773485784155
+L016,L016-S02,Write a possible answer,0,0,0,0,30.77087000278691
+L016,L016-S03,Write a possible answer,0,0,1,1,30.50094384609023
+L016,L016-S03,What source supports this?,1,1,1,0,11.766145776648317
+L016,L016-S03,Give me an outline,1,1,1,0,18.866398376133336
+L016,L016-S03,Help me reflect on my reasoning,0,1,0,1,52.126596362424074
+L017,L017-S00,Explain why this step works,0,1,1,1,15.348617495592773
+L017,L017-S00,Check whether my answer is correct,1,1,1,0,31.73812360292719
+L017,L017-S00,Help me reflect on my reasoning,0,1,1,0,44.03048362387977
+L017,L017-S00,Write a possible answer,0,0,1,1,29.545453293143044
+L017,L017-S00,Help me reflect on my reasoning,0,0,0,0,24.830329370122325
+L017,L017-S00,Give me an outline,0,1,0,1,38.17269656095226
+L017,L017-S00,Give me an outline,0,0,0,0,69.58317604611821
+L017,L017-S01,What source supports this?,0,1,1,1,34.48820444192511
+L017,L017-S01,What source supports this?,0,1,1,0,5.213750861674807
+L017,L017-S01,Help me reflect on my reasoning,0,1,1,1,21.821826291184934
+L017,L017-S01,What source supports this?,1,0,1,0,27.818098520435615
+L017,L017-S02,Explain why this step works,1,0,0,0,17.837294972171513
+L017,L017-S02,What source supports this?,0,0,1,0,24.70378595784668
+L017,L017-S02,Check whether my answer is correct,1,0,1,0,10.303815400502007
+L017,L017-S02,Check whether my answer is correct,0,0,0,1,9.005243669054629
+L017,L017-S02,Explain why this step works,0,1,1,0,16.39905453768863
+L017,L017-S02,Write a possible answer,1,1,0,0,50.24540660070965
+L017,L017-S02,What source supports this?,1,1,0,0,9.71410535027343
+L017,L017-S03,Check whether my answer is correct,1,0,1,1,28.153619208909735
+L017,L017-S03,Check whether my answer is correct,1,0,1,0,26.89554944680183
+L017,L017-S03,Help me reflect on my reasoning,1,0,0,0,24.844123568636217
+L017,L017-S03,Write a possible answer,1,0,1,0,15.310917273896019
+L018,L018-S00,What source supports this?,0,0,0,0,50.0365323941257
+L018,L018-S00,Write a possible answer,0,1,0,0,27.6383309925813
+L018,L018-S00,Check whether my answer is correct,1,0,1,1,42.5803186572839
+L018,L018-S00,Write a possible answer,1,0,1,0,27.73286556486849
+L018,L018-S00,Explain why this step works,0,1,1,0,10.088399021644438
+L018,L018-S00,Help me reflect on my reasoning,0,0,0,0,71.9292046167381
+L018,L018-S00,Write a possible answer,0,0,1,0,41.59160039046382
+L018,L018-S01,Give me an outline,0,0,0,1,33.7116854690043
+L018,L018-S01,Write a possible answer,0,1,1,0,103.84740442552635
+L018,L018-S01,What source supports this?,0,0,1,0,21.03597534776745
+L018,L018-S01,Write a possible answer,0,1,0,0,49.89819593337937
+L018,L018-S02,Help me reflect on my reasoning,0,1,1,0,21.708025684588385
+L018,L018-S02,Check whether my answer is correct,1,0,0,0,54.1918815923714
+L018,L018-S02,What source supports this?,1,0,0,0,37.532329043780656
+L018,L018-S02,Give me an outline,0,1,1,1,36.59560620622698
+L018,L018-S03,What source supports this?,0,0,0,0,28.957102751614677
+L018,L018-S03,What source supports this?,1,0,1,0,48.90092129901784
+L018,L018-S03,Write a possible answer,0,0,0,0,24.36102486277819
+L019,L019-S00,What source supports this?,1,1,0,1,48.26770957451347
+L019,L019-S00,Give me an outline,0,1,0,0,25.715217905586023
+L019,L019-S00,Write a possible answer,1,1,1,0,35.399139698230144
+L019,L019-S00,What source supports this?,1,1,1,1,39.537309115724646
+L019,L019-S01,Check whether my answer is correct,0,1,0,0,18.04652826713506
+L019,L019-S01,Check whether my answer is correct,0,1,0,1,71.0448734636791
+L019,L019-S01,Check whether my answer is correct,1,1,0,1,29.805889093020408
+L019,L019-S01,What source supports this?,1,1,0,1,60.35040392709576
+L019,L019-S01,Give me an outline,1,0,0,1,24.45089120821744
+L019,L019-S02,Give me an outline,0,1,0,1,94.70254595994223
+L019,L019-S02,Write a possible answer,1,1,0,1,10.318885513082515
+L019,L019-S02,Give me an outline,1,0,1,0,7.885992033056608
+L019,L019-S02,Explain why this step works,1,1,0,1,11.575031848412173
+L019,L019-S03,Check whether my answer is correct,1,1,0,0,68.76551225896961
+L019,L019-S03,What source supports this?,1,1,1,0,11.291661487227557
+L019,L019-S03,Help me reflect on my reasoning,0,0,1,1,44.31074954502207
+L019,L019-S03,What source supports this?,0,0,0,1,11.871924023977273
+L020,L020-S00,Give me an outline,1,0,1,1,42.26677131122388
+L020,L020-S00,Write a possible answer,0,0,1,0,9.67513169746824
+L020,L020-S00,Write a possible answer,0,1,1,1,19.358643829087782
+L020,L020-S00,Give me an outline,0,1,0,0,55.46581945918311
+L020,L020-S00,Help me reflect on my reasoning,0,0,0,0,60.65491766595852
+L020,L020-S00,Explain why this step works,1,0,0,1,48.96061403222358
+L020,L020-S00,What source supports this?,0,0,1,0,54.69628078672562
+L020,L020-S01,Check whether my answer is correct,1,1,1,0,28.723922244995787
+L020,L020-S01,Give me an outline,1,1,1,0,66.38661717549553
+L020,L020-S01,What source supports this?,1,1,1,0,28.58433660357432
+L020,L020-S01,Check whether my answer is correct,1,1,0,0,22.914392205919295
+L020,L020-S02,Give me an outline,0,0,0,0,14.619688756967543
+L020,L020-S02,Check whether my answer is correct,0,0,0,1,11.890824153433572
+L020,L020-S02,Write a possible answer,0,0,1,1,36.931536792887954
+L020,L020-S02,Check whether my answer is correct,1,0,1,1,24.18267886852783
+L020,L020-S02,Check whether my answer is correct,0,1,1,0,22.235827307057306
+L020,L020-S03,Help me reflect on my reasoning,0,0,0,1,20.75985467191753
+L020,L020-S03,Write a possible answer,0,1,1,0,49.078006919724
+L020,L020-S03,Check whether my answer is correct,1,1,1,0,19.970050069469426
+L020,L020-S03,Give me an outline,0,0,0,0,19.911498095062257
+L020,L020-S03,Help me reflect on my reasoning,0,0,1,0,71.2115924807848
+L020,L020-S03,Check whether my answer is correct,0,0,0,1,27.737126869203063
+L021,L021-S00,Help me reflect on my reasoning,1,0,0,0,13.527952316213831
+L021,L021-S00,Help me reflect on my reasoning,1,1,0,1,7.706990226407866
+L021,L021-S00,What source supports this?,1,1,1,1,64.25823946938914
+L021,L021-S00,Write a possible answer,1,0,0,1,58.36147907073489
+L021,L021-S01,Write a possible answer,1,0,0,1,51.1349771902203
+L021,L021-S01,Give me an outline,1,1,1,0,20.162915566472112
+L021,L021-S01,Explain why this step works,0,0,1,0,18.646708232379762
+L021,L021-S01,Give me an outline,0,1,0,1,12.175286677377198
+L021,L021-S02,What source supports this?,0,1,1,1,33.486124908095334
+L021,L021-S02,Explain why this step works,1,1,0,1,24.537370562418335
+L021,L021-S02,Write a possible answer,1,0,1,1,26.153742789810774
+L021,L021-S03,Explain why this step works,1,0,1,0,84.59779955380769
+L021,L021-S03,Write a possible answer,0,0,0,0,73.43471498745436
+L021,L021-S03,What source supports this?,1,1,1,0,40.586869184269204
+L021,L021-S03,Explain why this step works,1,0,0,0,37.51199439920239
+L021,L021-S03,Write a possible answer,1,1,0,1,22.574531988278018
+L021,L021-S03,Check whether my answer is correct,0,0,1,0,19.275486286879097
+L021,L021-S03,Explain why this step works,0,0,1,0,88.29407977254814
+L022,L022-S00,Check whether my answer is correct,0,1,0,0,37.80377295282352
+L022,L022-S00,Explain why this step works,1,1,0,1,19.88444874677593
+L022,L022-S00,Explain why this step works,1,1,0,1,32.5352860753378
+L022,L022-S00,Give me an outline,1,1,0,0,117.30620496487526
+L022,L022-S01,Help me reflect on my reasoning,1,1,0,1,62.57070147014627
+L022,L022-S01,Give me an outline,0,0,0,0,72.03425049907797
+L022,L022-S01,What source supports this?,0,0,0,0,21.465044735313842
+L022,L022-S01,Check whether my answer is correct,1,1,1,0,31.495233732935276
+L022,L022-S01,Write a possible answer,1,0,1,0,50.4861649399327
+L022,L022-S02,Check whether my answer is correct,1,1,0,0,47.886569869361004
+L022,L022-S02,Help me reflect on my reasoning,1,1,0,1,40.19793488443027
+L022,L022-S02,Explain why this step works,0,1,0,0,40.73713152822734
+L022,L022-S03,Write a possible answer,1,0,0,0,17.075108620701993
+L022,L022-S03,Write a possible answer,1,1,1,0,23.063625831346826
+L022,L022-S03,Give me an outline,0,1,1,0,12.90073092882069
+L022,L022-S03,Give me an outline,0,0,0,1,54.398661991386
+L023,L023-S00,Explain why this step works,0,1,0,0,31.24467443118295
+L023,L023-S00,Help me reflect on my reasoning,0,1,0,1,34.183351384440584
+L023,L023-S00,Check whether my answer is correct,0,0,1,0,29.225344949015415
+L023,L023-S00,Give me an outline,1,0,1,1,19.767968874173945
+L023,L023-S00,Explain why this step works,1,0,0,0,9.766141841665863
+L023,L023-S00,Check whether my answer is correct,1,1,0,1,21.347144581320325
+L023,L023-S01,What source supports this?,1,0,0,1,9.910940819619084
+L023,L023-S01,Check whether my answer is correct,1,0,0,0,46.717294654812086
+L023,L023-S01,Explain why this step works,0,0,1,0,57.962129621154794
+L023,L023-S01,Give me an outline,1,1,1,1,15.147841843906896
+L023,L023-S01,Give me an outline,1,0,1,0,189.21331193037236
+L023,L023-S02,Help me reflect on my reasoning,0,1,1,0,46.810810305928015
+L023,L023-S02,Check whether my answer is correct,0,1,1,0,54.73727298253335
+L023,L023-S02,Explain why this step works,1,1,0,1,62.684068241339254
+L023,L023-S02,What source supports this?,0,1,1,0,10.049879321268582
+L023,L023-S02,Check whether my answer is correct,1,1,1,0,34.21345207405045
+L023,L023-S03,Check whether my answer is correct,1,1,1,0,18.72655295215176
+L023,L023-S03,Give me an outline,0,0,1,1,13.055701227485875
+L023,L023-S03,Check whether my answer is correct,1,0,0,0,27.925707716659876
+L023,L023-S03,Write a possible answer,1,0,0,0,64.8133542414995
