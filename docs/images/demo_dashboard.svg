@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">Synthetic demo dashboard</title><desc id="desc">Synthetic demo dashboard with agency signals, intent mix, and interpretation notes.</desc>
+<defs><filter id="s" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="6" stdDeviation="10" flood-opacity="0.07"/></filter><style>
+.bg{fill:#f7f8fb}.ink{fill:#18202f}.muted{fill:#657086}.card{fill:#fff;stroke:#d9dfea;stroke-width:2;filter:url(#s)}.small{font:500 21px Inter,system-ui,sans-serif}.body{font:600 25px Inter,system-ui,sans-serif}.metric{font:800 46px Inter,system-ui,sans-serif}.head{font:800 40px Inter,system-ui,sans-serif}.title{font:800 56px Inter,system-ui,sans-serif}
+</style></defs>
+<rect class="bg" width="1600" height="900" rx="28"/><text x="80" y="100" class="title ink">Synthetic observatory snapshot</text><text x="82" y="143" class="small muted">Illustrative seeded demo. These values are not empirical findings.</text>
+<g transform="translate(80 205)"><rect class="card" width="925" height="278" rx="26"/><text x="34" y="52" class="head ink">Agency signals</text>
+<g transform="translate(34 84)"><rect width="202" height="145" rx="18" fill="#f7f9fc"/><text x="20" y="36" class="small muted">Verification</text><text x="20" y="91" class="metric" fill="#2d6cdf">52%</text><rect x="20" y="108" width="162" height="10" rx="5" fill="#e6ebf3"/><rect x="20" y="108" width="84" height="10" rx="5" fill="#2d6cdf"/></g>
+<g transform="translate(256 84)"><rect width="202" height="145" rx="18" fill="#f7f9fc"/><text x="20" y="36" class="small muted">Revision</text><text x="20" y="91" class="metric" fill="#1c8c83">52%</text><rect x="20" y="108" width="162" height="10" rx="5" fill="#e6ebf3"/><rect x="20" y="108" width="84" height="10" rx="5" fill="#1c8c83"/></g>
+<g transform="translate(478 84)"><rect width="202" height="145" rx="18" fill="#f7f9fc"/><text x="20" y="36" class="small muted">Reflection</text><text x="20" y="91" class="metric" fill="#7750c7">37%</text><rect x="20" y="108" width="162" height="10" rx="5" fill="#e6ebf3"/><rect x="20" y="108" width="60" height="10" rx="5" fill="#7750c7"/></g>
+<g transform="translate(700 84)"><rect width="190" height="145" rx="18" fill="#fff5ed"/><text x="20" y="36" class="small muted">Passive adoption</text><text x="20" y="91" class="metric" fill="#cf6a1b">49%</text><text x="20" y="121" class="small muted">descriptive only</text></g></g>
+<g transform="translate(1040 205)"><rect class="card" width="480" height="278" rx="26"/><text x="32" y="52" class="head ink">Intent mix</text>
+<text x="32" y="105" class="small muted">Explain concept</text><rect x="205" y="89" width="205" height="18" rx="9" fill="#e6ebf3"/><rect x="205" y="89" width="154" height="18" rx="9" fill="#2d6cdf"/>
+<text x="32" y="151" class="small muted">Check answer</text><rect x="205" y="135" width="205" height="18" rx="9" fill="#e6ebf3"/><rect x="205" y="135" width="119" height="18" rx="9" fill="#1c8c83"/>
+<text x="32" y="197" class="small muted">Generate answer</text><rect x="205" y="181" width="205" height="18" rx="9" fill="#e6ebf3"/><rect x="205" y="181" width="91" height="18" rx="9" fill="#cf6a1b"/>
+<text x="32" y="243" class="small muted">Reflect / revise</text><rect x="205" y="227" width="205" height="18" rx="9" fill="#e6ebf3"/><rect x="205" y="227" width="69" height="18" rx="9" fill="#7750c7"/></g>
+<g transform="translate(80 530)"><rect class="card" width="1440" height="230" rx="26"/><text x="34" y="54" class="head ink">How to read this</text>
+<circle cx="47" cy="105" r="7" fill="#2d6cdf"/><text x="72" y="113" class="body ink">Look for patterns across signals, not one “good learner” score.</text>
+<circle cx="47" cy="154" r="7" fill="#1c8c83"/><text x="72" y="162" class="body ink">Treat intent and agency measures as hypotheses to validate with real study data.</text>
+<circle cx="47" cy="203" r="7" fill="#cf6a1b"/><text x="72" y="211" class="body ink">Keep uncertainty visible and reserve interpretation for humans.</text></g>
+<rect x="80" y="796" width="1440" height="54" rx="16" fill="#18202f"/><text x="108" y="831" class="small" fill="#fff">Synthetic demo • fixed seed • no claims about real learners or institutions</text>
+</svg>
