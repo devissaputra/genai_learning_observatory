@@ -2,6 +2,8 @@
 
 [![CI](https://github.com/devissaputra/genai_learning_observatory/actions/workflows/ci.yml/badge.svg)](https://github.com/devissaputra/genai_learning_observatory/actions/workflows/ci.yml)
 
+
+**Category:** AI in Education
 **Observability for how learners actually use generative AI, not just whether they used it.**
 
 > Research prototype. All bundled data and results are synthetic demonstrations. Nothing in this repository should be interpreted as evidence about real learners, teachers, or institutions.
@@ -12,7 +14,7 @@
 
 Most dashboards reduce GenAI use to counts or time-on-task. This project treats learner–AI interaction as a process: what the learner asked for, whether they checked the answer, whether they revised it, and whether the interaction ended in reflection or simple adoption.
 
-The engineering goal is simple: make the research logic inspectable. Every metric in the demo can be traced back to a small function, the demo data can be regenerated from a fixed seed, and the limitations are stated next to the claims rather than buried at the end.
+The implementation keeps interaction events, feature extraction, aggregation, and reporting separate so each learner-agency signal can be traced back to the underlying synthetic events. That makes it easier to challenge the assumptions behind a metric instead of treating the dashboard as a black box.
 
 ## Research questions
 
@@ -32,7 +34,7 @@ The reference pipeline follows five stages:
 4. **Session aggregation**
 5. **Agency-oriented reporting**
 
-The current implementation is deliberately compact enough to audit. It is a foundation for a real study, not a theatrical “AI demo.”
+The baseline is intentionally lightweight so the full pipeline can be audited before introducing real interaction logs, richer models, or institutional data.
 
 ## Core outputs
 
