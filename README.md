@@ -4,7 +4,7 @@
 
 > Research prototype. All bundled data and results are synthetic demonstrations. Nothing in this repository should be interpreted as evidence about real learners, teachers, or institutions.
 
-![Architecture](docs/images/architecture.png)
+![Architecture: learner-AI events flow through transparent analysis to human interpretation](docs/images/architecture.svg)
 
 ## Why this project exists
 
@@ -20,7 +20,7 @@ The engineering goal is simple: make the research logic inspectable. Every metri
 
 ## What the repository does
 
-![Pipeline](docs/images/pipeline.png)
+![Inspectable five-stage analysis pipeline](docs/images/pipeline.svg)
 
 The reference pipeline follows five stages:
 
@@ -41,7 +41,7 @@ The current implementation is deliberately compact enough to audit. It is a foun
 - `intent_diversity`
 - `agency_index`
 
-![Synthetic demo dashboard](docs/images/demo_dashboard.png)
+![Synthetic observatory dashboard showing agency signals and intent mix](docs/images/demo_dashboard.svg)
 
 The dashboard above is generated from **synthetic data** and is included only to show what the analysis surface looks like. It is not a reported empirical result.
 
@@ -80,7 +80,7 @@ genai_learning_observatory/
 
 ## Research design in one picture
 
-![Research map](docs/images/research_map.png)
+![Research map linking questions, measures, validity risks, and next tests](docs/images/research_map.svg)
 
 The fuller design rationale is in [`docs/research_design.md`](docs/research_design.md), including constructs, assumptions, validation steps, and a proposed empirical extension.
 
