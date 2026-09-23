@@ -1,5 +1,7 @@
 # GenAI Learning Observatory
 
+[![CI](https://github.com/devissaputra/genai_learning_observatory/actions/workflows/ci.yml/badge.svg)](https://github.com/devissaputra/genai_learning_observatory/actions/workflows/ci.yml)
+
 **Observability for how learners actually use generative AI, not just whether they used it.**
 
 > Research prototype. All bundled data and results are synthetic demonstrations. Nothing in this repository should be interpreted as evidence about real learners, teachers, or institutions.
