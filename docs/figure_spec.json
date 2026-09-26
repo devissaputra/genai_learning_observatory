@@ -1,0 +1,56 @@
+{
+  "question": "How do learners check and revise AI assistance?",
+  "data": "Synthetic prompt-event records grouped by learner and session.",
+  "method": "Rule-based intent labeling; within-session event rates; equally weighted session summaries.",
+  "formula": "Agency index = .30V + .25R + .25F + .20(1-A).",
+  "interpretation": "V, R, F and A are verification, revision, reflection and answer-adoption rates. The weights are design choices, not estimated construct loadings. Session averages give each session equal weight; this is not a validated agency instrument.",
+  "status": "SYNTHETIC / RULE-BASED PROTOTYPE | no educational validity claim",
+  "source": "results/demo_metrics.json",
+  "rows": [
+    {
+      "label": "verification_rate",
+      "path": [
+        "verification_rate"
+      ],
+      "unit": "unitless"
+    },
+    {
+      "label": "revision_rate",
+      "path": [
+        "revision_rate"
+      ],
+      "unit": "unitless"
+    },
+    {
+      "label": "reflection_rate",
+      "path": [
+        "reflection_rate"
+      ],
+      "unit": "unitless"
+    },
+    {
+      "label": "answer_adoption_rate",
+      "path": [
+        "answer_adoption_rate"
+      ],
+      "unit": "unitless"
+    },
+    {
+      "label": "intent_diversity",
+      "path": [
+        "intent_diversity"
+      ],
+      "unit": "unitless"
+    },
+    {
+      "label": "agency_index",
+      "path": [
+        "agency_index"
+      ],
+      "unit": "unitless"
+    }
+  ],
+  "table_title": "Selected recorded values (units and context shown)",
+  "evidence_note": "See CALCULATIONS.md for data status, execution scope and interpretation.",
+  "finding": "This synthetic-data observatory turns AI interaction logs into inspectable session summaries of verification, revision, reflection, and answer adoption. Its intent labels use explicit lexical rules, and its agency index is a stated weighted heuristic rather than a psychological measure. The repository is useful for testing instrumentation and analysis workflows before collecting consented learner data."
+}

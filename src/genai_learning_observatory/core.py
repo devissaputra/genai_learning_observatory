@@ -1,3 +1,7 @@
+# Calculation reading guide: ../CALCULATIONS.md (repository root).
+# Agency index = .30V + .25R + .25F + .20(1-A).
+# V, R, F and A are verification, revision, reflection and answer-adoption rates. The weights are design choices, not estimated construct loadings. Session averages give each session equal weight; this is not a validated agency instrument.
+
 from __future__ import annotations
 import re
 import pandas as pd

@@ -1,5 +1,21 @@
 # GenAI Learning Observatory
 
+This synthetic-data observatory turns AI interaction logs into inspectable session summaries of verification, revision, reflection, and answer adoption. Its intent labels use explicit lexical rules, and its agency index is a stated weighted heuristic rather than a psychological measure. The repository is useful for testing instrumentation and analysis workflows before collecting consented learner data.
+
+## Start here
+
+- [Calculations, evidence and verification scope](CALCULATIONS.md)
+- [Figure sources and exact numerical paths](docs/figure_spec.json)
+- [Data status](data/README.md)
+
+![Study question, data, design and interpretation](assets/review_overview.svg)
+
+![Defined calculation and source-linked evidence](assets/review_calculations.svg)
+
+**Review scope:** The existing suite requires unavailable dependencies; no full-suite pass is claimed. The bundled demonstration executed successfully in this review.
+
+## Detailed project documentation
+
 [![CI](https://github.com/devissaputra/genai_learning_observatory/actions/workflows/ci.yml/badge.svg)](https://github.com/devissaputra/genai_learning_observatory/actions/workflows/ci.yml)
 
 
@@ -8,7 +24,6 @@
 
 > Research prototype. All bundled data and results are synthetic demonstrations. Nothing in this repository should be interpreted as evidence about real learners, teachers, or institutions.
 
-![Architecture: learner-AI events flow through transparent analysis to human interpretation](docs/images/architecture.svg)
 
 ## Why this project exists
 
@@ -24,7 +39,6 @@ The implementation keeps interaction events, feature extraction, aggregation, an
 
 ## What the repository does
 
-![Inspectable five-stage analysis pipeline](docs/images/pipeline.svg)
 
 The reference pipeline follows five stages:
 
@@ -45,7 +59,6 @@ The baseline is intentionally lightweight so the full pipeline can be audited be
 - `intent_diversity`
 - `agency_index`
 
-![Synthetic observatory dashboard showing agency signals and intent mix](docs/images/demo_dashboard.svg)
 
 The dashboard above is generated from **synthetic data** and is included only to show what the analysis surface looks like. It is not a reported empirical result.
 
@@ -84,7 +97,6 @@ genai_learning_observatory/
 
 ## Research design in one picture
 
-![Research map linking questions, measures, validity risks, and next tests](docs/images/research_map.svg)
 
 The fuller design rationale is in [`docs/research_design.md`](docs/research_design.md), including constructs, assumptions, validation steps, and a proposed empirical extension.
 
